@@ -15,6 +15,9 @@
 ### Known Issues
 - **Fuel Pump Synchronization**
   - Fuel pumps are currently not synced between engines. This will be addressed in a future update.
+- **Throttle Switches Synchronization / APU Bleed**
+  - The throttle switch to turn on Engine 4 is not synced between users.
+  - The APU bleed start switch will show a "Fault" error for users who do not have control. Only the user in control does not see this error.
 
 ---
 
