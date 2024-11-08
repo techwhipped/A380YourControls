@@ -13,6 +13,7 @@
 - **Throttle Control**
   - Enhanced throttle responsiveness with full operational functionality for engines 3 and 4.
   - **Special thanks to Joey for fixing the throttle issues!**
+  - - **Special thanks to justValgon for fixing alot of stuff not synced!**
   - synced ENG Master 4
 - **ELEC**
    - synced GEN 3+4
