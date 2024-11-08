@@ -885,6 +885,12 @@ shared:
     var_name: L:A32NX_OVHD_AIRCOND_ENG2BLEED_PB_IS_AUTO
   -
     type: var
+    var_name: L:A32NX_OVHD_AIRCOND_ENG3BLEED_PB_IS_AUTO
+  -
+    type: var
+    var_name: L:A32NX_OVHD_AIRCOND_ENG4BLEED_PB_IS_AUTO
+  -
+    type: var
     var_name: L:A320_Neo_MFD_Range_1
   -
     type: var
@@ -919,7 +925,8 @@ shared:
   -
     type: var
     var_name: L:A32NX_OVHD_COCKPITDOORVIDEO_TOGGLE
-  -
+ 
+  - #HYD
     type: var
     var_name: L:A32NX_HYD_ENG1PUMP_FAULT
   -
@@ -1968,6 +1975,12 @@ shared:
   -
     type: var
     var_name: L:XMLVAR_Momentary_PUSH_OVHD_ANTIICE_ENG2_Pressed
+  -
+    type: var
+    var_name: L:XMLVAR_Momentary_PUSH_OVHD_ANTIICE_ENG3_Pressed
+  -
+    type: var
+    var_name: L:XMLVAR_Momentary_PUSH_OVHD_ANTIICE_ENG4_Pressed
   -
     type: var
     var_name: L:XMLVAR_Momentary_PUSH_OVHD_ANTIICE_WING_Pressed
