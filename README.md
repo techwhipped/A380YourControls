@@ -9,6 +9,9 @@
   - This profile is based on the default A320 profile by FlyByWire (FBW).
   - Introduces full support for Airbus A380 systems and controls.
 
+### Bug Fixes
+- Fixed issues of YourControls YAML not starting correctly giving off errors.
+
 ### Updates
 - **Throttle Control**
   - Enhanced throttle responsiveness with full operational functionality for engines 3 and 4.
