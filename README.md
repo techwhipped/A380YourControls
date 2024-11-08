@@ -16,19 +16,23 @@
 - **Throttle Control**
   - Enhanced throttle responsiveness with full operational functionality for engines 3 and 4.
   - **Special thanks to Joey for fixing the throttle issues!**
-  - - **Special thanks to justValgon for fixing alot of stuff not synced!**
+  - - **Special thanks to justValgon & Nicht Luis for fixing alot of stuff not synced!**
   - synced ENG Master 4
+
 - **ELEC**
    - synced GEN 3+4
    - synced APU GEN B
    - synced EXT PWR 2+3+4
    - synced ESS BAT+APU BAT
    - synced IDG 2+3+4
+
 - **AIR**
   - synced HOT AIR 1+2
   - synced RAM AIR
   - synced ENG BLEED 1+2+3+4
 
+- **Anti-Ice**
+  - synced for all Engines
 
 ### Known Issues
 - **Fuel Pump Synchronization**
