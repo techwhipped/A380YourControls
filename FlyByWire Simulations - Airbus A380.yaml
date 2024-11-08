@@ -194,6 +194,14 @@ shared:
     event_name: FUELSYSTEM_VALVE_TOGGLE
     event_param: 3
   -
+
+    type: ToggleSwitch
+    var_name: A:FUELSYSTEM VALVE SWITCH:4
+    var_units: Bool
+    var_type: bool
+    event_name: FUELSYSTEM_VALVE_TOGGLE
+    event_param: 4
+  -
     type: ToggleSwitch
     var_name: A:FUELSYSTEM VALVE SWITCH:9
     var_units: Bool
@@ -829,6 +837,14 @@ shared:
   -
     type: var
     var_name: L:A32NX_ELEC_IDG2_FAULT
+
+      -
+    type: var
+    var_name: L:A32NX_ELEC_IDG3_FAULT
+
+      -
+    type: var
+    var_name: L:A32NX_ELEC_IDG4_FAULT
   -
     type: var
     var_name: L:A32NX_ELEC_BUSTIE_TOGGLE
