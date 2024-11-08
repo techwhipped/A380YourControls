@@ -1647,8 +1647,48 @@ shared:
 #   type: var
 #   var_name: L:A32NX_MCDU_PUSH_ANIM_2_CLR
 # -
-#   type: var
+
+# Throttle Lever Positions for All Engines
+
+# Existing Throttle 1 Definitions
+# - type: var
 #   var_name: L:XMLVAR_Throttle1Position
+# -
+#   type: var
+#   var_name: L:A32NX_AUTOTHRUST_TLA:1
+# -
+#   type: var
+#   var_name: L:A32NX_3D_THROTTLE_LEVER_POSITION_1
+
+# Existing Throttle 2 Definitions
+# - type: var
+#   var_name: L:XMLVAR_Throttle2Position
+# -
+#   type: var
+#   var_name: L:A32NX_AUTOTHRUST_TLA:2
+# -
+#   type: var
+#   var_name: L:A32NX_3D_THROTTLE_LEVER_POSITION_2
+
+# Added Throttle 3 Definitions for A380 Compatibility
+# - type: var
+#   var_name: L:XMLVAR_Throttle3Position
+# -
+#   type: var
+#   var_name: L:A32NX_AUTOTHRUST_TLA:3
+# -
+#   type: var
+#   var_name: L:A32NX_3D_THROTTLE_LEVER_POSITION_3
+
+# Added Throttle 4 Definitions for A380 Compatibility
+# - type: var
+#   var_name: L:XMLVAR_Throttle4Position
+# -
+#   type: var
+#   var_name: L:A32NX_AUTOTHRUST_TLA:4
+# -
+#   type: var
+#   var_name: L:A32NX_3D_THROTTLE_LEVER_POSITION_4
 # -
 #   type: var
 #   var_name: L:A32NX_AUTOTHRUST_TLA:1
