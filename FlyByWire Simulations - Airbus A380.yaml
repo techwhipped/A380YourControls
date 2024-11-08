@@ -1,4 +1,5 @@
 # Version 1.1
+#bug fixes where profile wasn't starting should be fixed now
 
 include:
   - definitions/modules/general.yaml
@@ -1018,6 +1019,7 @@ shared:
     var_name: L:A32NX_OVHD_HYD_BLUEPUMP_OVRD
   -
     type: var
+    
     var_name: L:A32NX_OVHD_HYD_LEAK_MEASUREMENT_G_PB_IS_AUTO
   -
     type: var
