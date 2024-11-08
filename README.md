@@ -29,10 +29,6 @@
 ### Known Issues
 - **Fuel Pump Synchronization**
   - Fuel pumps are currently not synced between engines. This will be addressed in a future update.
-- **Throttle Switches Synchronization / APU Bleed**
-  - The throttle switch to turn on Engine 4 is not synced between users.
- 
-
 - **Hydraulical Pannel**
   - The Hydraulical Pannel is not yet synced between users. This will be addressed in a future update.
 - **FIRE Pannels**
