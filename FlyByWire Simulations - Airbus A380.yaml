@@ -901,6 +901,7 @@ shared:
   -
     type: var
     var_name: L:A32NX_OVHD_AIRCOND_ENG4BLEED_PB_IS_AUTO
+  #EFIS
   -
     type: var
     var_name: L:A320_Neo_MFD_Range_1
@@ -913,6 +914,79 @@ shared:
   -
     type: var
     var_name: L:A32NX_EFIS_R_ND_MODE
+  -
+    type: var
+    var_name: L:A380X_EFIS_L_CSTR_BUTTON_IS_ON
+  -
+    type: var
+    var_name: L:A380X_EFIS_R_CSTR_BUTTON_IS_ON
+  - 
+    type: var
+    var_name: L:A380X_EFIS_L_TRAF_BUTTON_IS_ON
+  -
+    type: var
+    var_name: L:A380X_EFIS_R_TRAF_BUTTON_IS_ON      
+  -
+    type: var
+    var_name: L:PUSH_EFIS_CS_WPT
+  -
+    type: var
+    var_name: L:PUSH_EFIS_FO_WPT
+  -
+    type: var
+    var_name: L:PUSH_EFIS_CS_TERR
+  -
+    type: var
+    var_name: L:PUSH_EFIS_FO_TERR
+  -
+    type: var
+    var_name: L:PUSH_EFIS_CS_NDB
+  -
+    type: var
+    var_name: L:PUSH_EFIS_FO_NDB
+  -
+    type: var
+    var_name: L:PUSH_EFIS_CS_VORD
+  -
+    type: var
+    var_name: L:PUSH_EFIS_FO_VORD
+  -
+   type: var
+   var_name: L:PUSH_EFIS_CS_LS
+  -
+   type: var
+   var_name: L:PUSH_EFIS_FO_LS
+  -
+   type: var
+   var_name: L:PUSH_EFIS_CS_VV
+  -
+   type: var
+   var_name: L:PUSH_EFIS_FO_VV   
+  #ECAM PBS
+  -
+    type: var
+    var_name: L:PUSH_ECAM_CLR_LH
+  -
+    type: var
+    var_name: L:PUSH_ECAM_CHECK_LH
+  -
+    type: var
+    var_name: L:PUSH_ECAM_CHECK_RH     
+  -
+   type: var
+   var_name: L:PUSH_ECAM_ELAC
+  -
+   type: var
+   var_name: L:PUSH_ECAM_ELDC
+  -
+   type: var
+   var_name: L:PUSH_ECAM_CB
+  -
+    type: var
+    var_name: L:PUSH_ABNPROC
+  -
+    type: var
+    var_name: L:PUSH_ECAM_RCLLAST
   -
     type: var
     var_name: L:A32NX_OVHD_COND_PACK_1_PB_IS_ON
