@@ -83,6 +83,18 @@ shared:
     event_name: ANTI_ICE_TOGGLE_ENG2
   -
     type: ToggleSwitch
+    var_name: A:ENG ANTI ICE:3
+    var_units: Bool
+    var_type: bool
+    event_name: ANTI_ICE_TOGGLE_ENG3
+  -
+    type: ToggleSwitch
+    var_name: A:ENG ANTI ICE:4
+    var_units: Bool
+    var_type: bool
+    event_name: ANTI_ICE_TOGGLE_ENG4
+  -
+    type: ToggleSwitch
     var_name: A:STRUCTURAL DEICE SWITCH
     var_units: Bool
     var_type: bool
