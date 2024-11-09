@@ -37,6 +37,9 @@
 ### Known Issues
 - **Fuel Pump Synchronization**
   - Fuel pumps are currently not synced between engines. This will be addressed in a future update.
+    
+ ** - Temp Workaround: Is to make sure both users have turned on fuel pumps on there sides**
+    
 - **Hydraulical Pannel**
   - The Hydraulical Pannel is not yet synced between users. This will be addressed in a future update.
 - **FIRE Pannels**
